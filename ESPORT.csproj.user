@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Findlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Playerre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Players.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Team.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="team_dt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
