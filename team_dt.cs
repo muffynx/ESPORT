@@ -1,4 +1,4 @@
-﻿using CISESPORT2.NewFolder;
+﻿using ESPORT.playerrr;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CISESPORT2
+namespace ESPORT
 {
     public partial class team_dt : Form
     {
