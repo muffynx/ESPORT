@@ -1,4 +1,4 @@
-﻿using CISESPORT.playerrr;
+﻿using ESPORT.playerrr;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CISESPORT
+namespace ESPORT
 {
     public partial class Players : Form
     {
